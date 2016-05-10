@@ -3,5 +3,7 @@ node {
    echo 'Hello World 1'
    stage 'Stage 2'
    echo 'Hello World 2'
+   stage 'Stage 32'
+   echo 'Hello World 2'
 
 }
